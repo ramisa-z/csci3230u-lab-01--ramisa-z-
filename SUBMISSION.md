@@ -1,20 +1,20 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here 
 
 ## Name
 
-TODO - your full name
+Ramisa Zaman
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned how to resolve issues when adding new code by mentioning the issue number in the description of the commit. Also learned that it is convention to prefix git commits with the type.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git switch -c I will use this command when I want to switch branches when I want to work on something not on main.
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: paste the PR URL heres
